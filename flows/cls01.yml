@@ -1,0 +1,48 @@
+title: "Linear Algebra"
+description: |
+    # Linear Algebra Recap
+
+rules:
+    access:
+    -
+        if_has_role: [student, ta, instructor]
+        permissions: [view]
+
+    grade_identifier: null
+
+pages:
+
+-
+    type: Page
+    id: intro
+    content: |
+
+        # A little distraction to start
+
+        １ページ目の文章
+
+-
+    type: Page
+    id: vectors
+    content: |
+
+        # Vectors
+
+        ２ページ目の文章
+
+
+-
+    type: Page
+    id: ipynb
+    content: |
+
+      # Ipython notebook render examples
+
+      ３ページ目の文章
+
+
+completion_text: |
+
+    # End of Linear Algebra Recap
+
+    授業完了
