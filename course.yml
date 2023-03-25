@@ -18,7 +18,7 @@ chunks:
 
         Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
         
-        日本語の文章を表示するテスト
+        日本語の文章を表示するテスト文字列
 
         You can also go there using a
         <a href="flow:001-linalg-recap" role="button" class="btn btn-primary">Bootstrap button</a>.
