@@ -54,7 +54,9 @@ pages:
     content: |
 
         # 練習問題
-        練習問題を受講しましょう\n
+        練習問題を受講しましょう
+        
+        
         <a href="flow:quiz-test" role="button" class="btn btn-primary">練習問題</a>.
 
 
